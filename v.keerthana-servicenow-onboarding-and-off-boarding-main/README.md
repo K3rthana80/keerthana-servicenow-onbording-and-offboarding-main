@@ -1,9 +1,9 @@
 # Automated ServiceNow Solution for Employee Lifecycle Management
 
-**Created by:** MD ABUBAKAR SIDDIQ  
+**Created by:** VIPPARTHI KERTHANA
 **Organization:** SKILLWALLET INTERNSHIP  
 **Team:** Development & Implementation Team  
-**Date:** 2026-07-01
+**Date:** 2026-07-10
 
 ---
 
@@ -103,4 +103,4 @@ Complete implementation guide, step-by-step procedures, and best practices avail
 ---
 
 **Project Status:** ✅ Complete  
-**Last Updated:** 2026-07-01
+**Last Updated:** 2026-07-10
